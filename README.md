@@ -12,10 +12,6 @@ Habilidades: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-th
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Valentin-gp) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/valentin-galeano-peralta-89a2632a7/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/valen_tin2.0/)  
 
-### Mis estadísticas en GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentin-gp&show_icons=true&theme=radical)
-
 
 
 
