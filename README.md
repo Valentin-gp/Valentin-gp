@@ -1,6 +1,7 @@
 ### Hola 👋, Mi nombre es Valentin 
 #### Estudiante de ingeniería informática 
-![Estudiante de ingeniería informática ](https://www.canva.com/design/DAG6p0-pAC8/n7oxVBFjHGAxkqE00-thuw/view?utm_content=DAG6p0-pAC8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2aa9e0476)
+<img src="(https://github.com/Valentin-gp/Valentin-gp/blob/main/Baner.png)" alt="GitHub logo" width="100"/>
+
 
 Me apasiona la ciberseguridad y la inteligencia artificial, actualmente estoy aprendiendo SQL y Java
 
